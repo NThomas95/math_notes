@@ -1,0 +1,47 @@
+\documentclass[12pt]{book}
+
+\usepackage[margin=1in]{geometry}
+\usepackage{tikz}  % Pretty math graphics
+\usepackage{amsmath}  % Obviously I need math
+\usepackage{amssymb}  % Still need math
+\usepackage{tcolorbox}  % Boxes around definitions, theorems, etc
+\usepackage{hyperref}  % I would like to link to theorems/sections
+
+
+% Package options. I will define settings for some packages here
+\hypersetup{
+	colorlinks=true, %set true if you want colored links
+	linktoc=all,     %set to all if you want both sections and subsections linked. toc is table of contents
+	linkcolor=blue,  %choose some color if you want links to stand out
+}
+
+
+% Preamble Stuff
+\title{Nathan's Big Book Of Math}
+\author{Nathan Thomas}
+
+
+\begin{document}
+
+\maketitle
+\tableofcontents
+
+\part{Real Analysis}
+    \include{measure_theory}
+    
+\part{Ordinary Differential Equations}
+    \include{ODE_scaling}
+    
+\part{Optimization}
+
+\part{Control Theory}
+
+
+
+\begin{appendix}
+	\listoffigures
+	\listoftables
+\end{appendix}
+	
+
+\end{document}
