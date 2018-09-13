@@ -6,6 +6,7 @@
 \usepackage{amssymb}  % Still need math
 \usepackage{tcolorbox}  % Boxes around definitions, theorems, etc
 \usepackage{hyperref}  % I would like to link to theorems/sections
+\usepackage{tcolorbox}  % This will let me have nice frames and boxes around things
 
 
 % Package options. I will define settings for some packages here
@@ -14,6 +15,13 @@
 	linktoc=all,     %set to all if you want both sections and subsections linked. toc is table of contents
 	linkcolor=blue,  %choose some color if you want links to stand out
 }
+
+
+% Define the theorem-like environments I will be using
+\tcbuselibrary{theorems}  % I need to tell tcb to actually load the theorems environment
+\newtcbtheorem[number within=section]{definition}{Definition}{}{th}
+\newtcbtheorem[number within=chapter]{theorem}{Theorem}{}{def}
+\newtcbtheorem[number within=section]{condition}{Condition}{}{cond}
 
 
 % Preamble Stuff
@@ -33,6 +41,7 @@
     \include{Ordinary_Differential_Equations/ODE_scaling}
     
 \part{Optimization}
+    \include{Optimization/line_search_methods}
 
 \part{Control Theory}
 

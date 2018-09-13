@@ -1,5 +1,7 @@
 \contentsline {part}{I\hspace {1em}Real Analysis}{5}{part.1}
 \contentsline {chapter}{\numberline {1}Measure Theory}{7}{chapter.1}
 \contentsline {part}{II\hspace {1em}Ordinary Differential Equations}{9}{part.2}
-\contentsline {part}{III\hspace {1em}Optimization}{11}{part.3}
-\contentsline {part}{IV\hspace {1em}Control Theory}{13}{part.4}
+\contentsline {part}{III\hspace {1em}Optimization}{13}{part.3}
+\contentsline {chapter}{\numberline {2}Line Search Methods}{15}{chapter.2}
+\contentsline {section}{\numberline {2.1}Wolfe Conditions}{15}{section.2.1}
+\contentsline {part}{IV\hspace {1em}Control Theory}{17}{part.4}

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.28)  11 SEP 2018 15:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.8.28)  13 SEP 2018 15:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -560,26 +560,33 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip46
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 16.
+Package hyperref Info: Option `colorlinks' set `true' on input line 17.
 
-(./nathanMathNotesMain.aux (./Real_Analysis/measure_theory.aux)
-(./ODE_scaling.aux))
+(/usr/share/texlive/texmf-dist/tex/latex/tcolorbox/tcbtheorems.code.tex
+Library (tcolorbox): 'tcbtheorems.code.tex' version '4.12'
+)
+\c@tcb@cnt@definition=\count136
+\c@tcb@cnt@theorem=\count137
+\c@tcb@cnt@condition=\count138
+ (./nathanMathNotesMain.aux (./Real_Analysis/measure_theory.aux)
+(./Ordinary_Differential_Equations/ODE_scaling.aux)
+(./Optimization/line_search_methods.aux))
 \openout1 = `nathanMathNotesMain.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 32.
+LaTeX Font Info:    ... okay on input line 32.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -618,16 +625,16 @@ LaTeX Font Info:    ... okay on input line 24.
 ABD: EveryShipout initializing macros
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count136
+\scratchcounter=\count139
 \scratchdimen=\dimen172
 \scratchbox=\box47
-\nofMPsegments=\count137
-\nofMParguments=\count138
+\nofMPsegments=\count140
+\nofMParguments=\count141
 \everyMPshowfont=\toks35
-\MPscratchCnt=\count139
+\MPscratchCnt=\count142
 \MPscratchDim=\dimen173
-\MPnumerator=\count140
-\makeMPintoPDFobject=\count141
+\MPnumerator=\count143
+\makeMPintoPDFobject=\count144
 \everyMPtoPDFconversion=\toks36
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
@@ -647,7 +654,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box48
-Package hyperref Info: Link coloring ON on input line 24.
+Package hyperref Info: Link coloring ON on input line 32.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -655,22 +662,22 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count142
+\c@section@level=\count145
 )
-LaTeX Info: Redefining \ref on input line 24.
-LaTeX Info: Redefining \pageref on input line 24.
-LaTeX Info: Redefining \nameref on input line 24.
+LaTeX Info: Redefining \ref on input line 32.
+LaTeX Info: Redefining \pageref on input line 32.
+LaTeX Info: Redefining \nameref on input line 32.
 
 (./nathanMathNotesMain.out) (./nathanMathNotesMain.out)
 \@outlinefile=\write6
 \openout6 = `nathanMathNotesMain.out'.
 
-LaTeX Font Info:    Try loading font information for U+msa on input line 27.
+LaTeX Font Info:    Try loading font information for U+msa on input line 35.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 27.
+LaTeX Font Info:    Try loading font information for U+msb on input line 35.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -698,55 +705,70 @@ Chapter 1.
 
 
 ] [9] [10]
-\openout2 = `ODE_scaling.aux'.
+\openout2 = `Ordinary_Differential_Equations/ODE_scaling.aux'.
+
+ (./Ordinary_Differential_Equations/ODE_scaling.tex) [11
+
+]
+[12
 
 
-No file ODE_scaling.tex.
-[11
+] [13] [14]
+\openout2 = `Optimization/line_search_methods.aux'.
+
+ (./Optimization/line_search_methods.tex
+Chapter 2.
+) [15
 
 
+] [16
 
-] [12] [13
 
-] [14] (./nathanMathNotesMain.lof)
+] [17] [18] (./nathanMathNotesMain.lof)
 \tf@lof=\write8
 \openout8 = `nathanMathNotesMain.lof'.
 
- [15
+ [19
 
-] [16
+] [20
 
 ]
 (./nathanMathNotesMain.lot)
 \tf@lot=\write9
 \openout9 = `nathanMathNotesMain.lot'.
 
- [17]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 47.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 47.
+ [21]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 56.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 56.
  (./nathanMathNotesMain.aux
-(./Real_Analysis/measure_theory.aux) (./ODE_scaling.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 47.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 47.
+(./Real_Analysis/measure_theory.aux)
+(./Ordinary_Differential_Equations/ODE_scaling.aux)
+(./Optimization/line_search_methods.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 56.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 56.
 Package rerunfilecheck Info: File `nathanMathNotesMain.out' has not changed.
-(rerunfilecheck)             Checksum: 6DA9D87B5F685271322DCFF71759E5F6;269.
+(rerunfilecheck)             Checksum: B2CCE2223EA8CD12F2C99C16EB18C87F;391.
  ) 
 Here is how much of TeX's memory you used:
- 18125 strings out of 494923
- 347084 string characters out of 6180742
- 406187 words of memory out of 5000000
- 21120 multiletter control sequences out of 15000+600000
- 8408 words of font info for 32 fonts, out of 8000000 for 9000
+ 18421 strings out of 494923
+ 355045 string characters out of 6180742
+ 414170 words of memory out of 5000000
+ 21388 multiletter control sequences out of 15000+600000
+ 13361 words of font info for 51 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 55i,6n,73p,888b,347s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,6n,75p,888b,460s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></us
-r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share
-/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texliv
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb>
-Output written on nathanMathNotesMain.pdf (17 pages, 53601 bytes).
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmsy10.pfb>
+Output written on nathanMathNotesMain.pdf (21 pages, 89969 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
- 114 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
- 53 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 186 PDF objects out of 1000 (max. 8388607)
+ 153 compressed objects within 2 object streams
+ 33 named destinations out of 1000 (max. 500000)
+ 69 words of extra memory for PDF output out of 10000 (max. 10000000)
 
